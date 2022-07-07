@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(29, 29, 29);
+  color: rgb(141, 116, 242);
+
+  font-size: 18px;
+
+  font-family: "Roboto", sans-serif;
+}
+
+.int_render {
+  width: 100%;
+  /* width: 80%; */
+  height: 80%;
+  border-radius: 12px;
+
+  /* display: none; */
+}
+
+.container {
+  max-width: 1100px;
+  margin: auto;
+  padding-top: 25px;
+}
+
+.title {
+  background: rgb(47, 47, 47);
+  margin-bottom: 20px;
+  padding: 15px 20px;
+  border-radius: 15px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.card {
+  background-color: rgb(47, 47, 47);
+  margin-bottom: 20px;
+  padding: 15px 20px;
+  border-radius: 15px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.row {
+  display: flex;
+}
+
+.form-card {
+  width: 33%;
+  margin-right: 20px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.btgroup {
+  margin-right: 7px;
+  margin-bottom: 25px;
+}
